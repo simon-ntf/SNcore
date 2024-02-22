@@ -1,11 +1,11 @@
 <paquet
 	prefix="sncore"
 	categorie="outil"
-	version="1.0.0"
+	version="1.0.1"
 	etat="stable"
 	compatibilite="[3.0.0;["
 	logo="prive/themes/spip/images/sncore-128.png"
-	schema="1.0.1"
+	schema="1.0.0"
 	documentation="https://www.snsuite.net"
 >
 	<nom>SN Core</nom>
